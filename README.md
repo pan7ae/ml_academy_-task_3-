@@ -48,3 +48,9 @@ You can also run tests.py file with the command
 ```bash
 python3 tests.py
 ```
+
+## Logging
+
+Visual logging is available on W&B serivice
+- [SARIMA Model](https://wandb.ai/pnntly/task_3?workspace=user-pan_ae)
+- [Neural Network Model](https://wandb.ai/pnntly/task_3_RNN?workspace=user-pan_ae)
